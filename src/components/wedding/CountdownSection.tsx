@@ -4,7 +4,7 @@ import { Heart, Sparkles } from "lucide-react";
 import ornamentDivider from "@/assets/ornament-divider.png";
 
 const AKAD_DATE = new Date("2026-05-11T08:00:00+07:00").getTime();
-const RESEPSI_DATE = new Date("2025-05-30T08:00:00+07:00").getTime();
+const RESEPSI_DATE = new Date("2026-05-30T08:00:00+07:00").getTime();
 
 const useCountdown = (target: number) => {
   const [timeLeft, setTimeLeft] = useState({ days: 0, hours: 0, minutes: 0, seconds: 0 });
@@ -72,7 +72,7 @@ const CountdownSection = () => {
         {/* Resepsi Countdown */}
         <div>
           <p className="font-script text-2xl text-primary mb-2">Resepsi Pernikahan</p>
-          <p className="text-muted-foreground font-sans text-xs mb-5 tracking-wider">Sabtu, 30 Mei 2025</p>
+          <p className="text-muted-foreground font-sans text-xs mb-5 tracking-wider">Sabtu, 30 Mei 2026</p>
           <div className="grid grid-cols-4 gap-3 md:gap-5 max-w-lg mx-auto">
             {toUnits(resepsiTime).map((val, i) => (
               <div key={`resepsi-${i}`} className="glass-card rounded-2xl p-3 md:p-5 group hover:scale-105 transition-all duration-300">

@@ -63,7 +63,7 @@ const EventSection = () => {
                 <div className="space-y-3 text-muted-foreground font-sans text-sm">
                   <div className="flex items-center justify-center gap-3 p-3 rounded-xl bg-primary/5">
                     <Calendar className="w-4 h-4 text-primary flex-shrink-0" />
-                    <span className="font-medium text-foreground text-xs">Sabtu, 30 Mei 2025</span>
+                    <span className="font-medium text-foreground text-xs">Sabtu, 30 Mei 2026</span>
                   </div>
                   <div className="flex items-center justify-center gap-3 p-3 rounded-xl bg-primary/5">
                     <Clock className="w-4 h-4 text-primary flex-shrink-0" />

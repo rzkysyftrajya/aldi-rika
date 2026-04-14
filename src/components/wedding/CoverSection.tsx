@@ -55,7 +55,7 @@ const CoverSection = ({ onOpen }: CoverSectionProps) => {
         </div>
 
         <div className="ornament-line mb-4">
-          <span className="text-muted-foreground font-sans text-[10px] tracking-[0.4em]">11 • 05 • 2026  &  30 • 05 • 2025</span>
+          <span className="text-muted-foreground font-sans text-[10px] tracking-[0.4em]">11 • 05 • 2026  &  30 • 05 • 2026</span>
         </div>
         
         <p className="text-muted-foreground/70 font-sans text-[10px] tracking-[0.2em] uppercase mb-8">Insya Allah</p>

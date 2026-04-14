@@ -6,7 +6,7 @@ const stories = [
   { year: "2020", title: "Pertama Bertemu", desc: "Kami pertama kali bertemu di sebuah acara kampus yang tak terduga." },
   { year: "2021", title: "Mulai Dekat", desc: "Semakin sering berkomunikasi dan menemukan banyak kecocokan." },
   { year: "2023", title: "Menjalin Hubungan", desc: "Memutuskan untuk berjalan bersama dalam sebuah komitmen." },
-  { year: "2025", title: "Menikah", desc: "Melangkah ke jenjang pernikahan dengan penuh cinta dan harapan." },
+{ year: "2026", title: "Menikah", desc: "Melangkah ke jenjang pernikahan dengan penuh cinta dan harapan." },
 ];
 
 const LoveStorySection = () => {
